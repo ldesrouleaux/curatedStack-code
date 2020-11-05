@@ -4,64 +4,62 @@
       "categories_slugs": [
         "Sell Theme"
       ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
+      "name": "CHANDRA",
+      "description": "Modern. Handcrafted. Rugs",
       "url": "https://chandra.b2bdirect.io/",
       "icon": "/images/logos/icon.png"
     },
     {
       "categories_slugs": [
-        "books",
-        "food",
-        "well-being"
+        "Sell Theme"
       ],
-      "name": "Tradivegan",
-      "description": "Traditional authentic vegan recipes from all around the world",
+      "name": "Marshall Home & Garden",
+      "description": "Home & Garden",
       "url": "https://tradivegan.com/",
       "icon": "/images/logos/tradivegan.png"
     },
     {
       "categories_slugs": [
-        "productivity"
+        "Sell Theme"
       ],
-      "name": "Kanbanote",
+      "name": "Foreside Home & Garden",
       "description": "Evernote as a Kanban board",
-      "url": "https://www.kanbanote.com",
+      "url": "https://foresidehomeandgarden.b2bdirect.io",
       "icon": "/images/logos/kanbanote.png"
     },
     {
       "categories_slugs": [
-        "open-source"
+        "Default Theme"
       ],
-      "name": "Darkmode.js",
-      "description": "Add a dark-mode / night-mode to your website in a few seconds",
-      "url": "https://darkmodejs.learn.uno/",
+      "name": "Juniper Web Demo",
+      "description": "",
+      "url": "https://juniperweb-multiline.b2bdirect.io/",
       "icon": "/images/logos/darkmode.png"
     },
     {
       "categories_slugs": [
-        "design"
+        "Default Theme"
       ],
-      "name": "Undesign (built with CuratedStack)",
+      "name": "Selemat",
       "description": "Collection of free design tools and resources for makers, developers and designers",
-      "url": "https://undesign.learn.uno/",
+      "url": "https://selamatdesigns.trade/",
       "icon": "/images/logos/undesign.png"
     },
     {
       "categories_slugs": [
-        "open-source"
+        "Default Theme"
       ],
-      "name": "Mobile App Landing Page Template",
+      "name": "Militti",
       "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
+      "url": " https://www.milittisales.com/"
     },
     {
       "categories_slugs": [
-        "finance"
+        "Minimal Theme"
       ],
-      "name": "Revenual",
-      "description": "Aggregated sales reports for app makers",
-      "url": "https://www.revenual.com/",
+      "name": "Bethany Lowe",
+      "description": "",
+      "url": "https://bethanylowe.com/",
       "icon": "/images/logos/revenual.svg"
     },
     {

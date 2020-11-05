@@ -8,14 +8,14 @@
     },
     {
       "slug": "Default Theme",
-      "name": "Productivity",
-      "description": "best free productivity tools",
+      "name": "Default Theme",
+      "description": "",
       "icon": "⌚"
     },
     {
       "slug": "Minimal Theme",
-      "name": "Communication",
-      "description": "best communication tools",
+      "name": "Minimal Theme",
+      "description": "",
       "icon": "💬"
     }
   ]
