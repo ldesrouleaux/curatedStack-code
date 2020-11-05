@@ -1,12 +1,12 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "Juniper Web Custom Sites",
+  "description": "Web Directory of Themed Websites with style customizations",
   "tools": {
-    "title": "Tools & Resources",
-    "description": "Find the tool you need in each category"
+    "title": "Themes",
+    "description": "Browse some example Juniper Web Themed websites"
   },
   "footer": {
-    "title": "Any tool to suggest?",
+    "title": "Questions?",
     "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
     "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
     "author": {
