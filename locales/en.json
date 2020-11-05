@@ -1,17 +1,17 @@
 {
-  "title": "Juniper Web Custom Sites",
-  "description": "Web Directory of Themed Websites with style customizations",
+  "title": "Juniper Web Theme Websites",
+  "description": "Web Directory of Themed Websites with Style Customizations",
   "tools": {
     "title": "Themes",
-    "description": "Browse some example Juniper Web Themed websites"
+    "description": "Browse Some Example Juniper Web Themed websites"
   },
   "footer": {
     "title": "Questions?",
     "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "copyright": "Powered By Juniper Web ",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "IMCDI",
+      "website": "www.imcdi.com"
     }
   },
   "buttons": {
