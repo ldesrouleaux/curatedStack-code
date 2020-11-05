@@ -7,11 +7,11 @@
   },
   "footer": {
     "title": "Questions?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
+    "description": "Have a question for support?",
     "copyright": "Powered By Juniper Web ",
     "author": {
       "name": "IMCDI",
-      "website": "www.imcdi.com"
+      "website": "https://www.imcdi.com"
     }
   },
   "buttons": {
