@@ -17,6 +17,12 @@
       "name": "Minimal Theme",
       "description": "",
       "icon": "💬"
+    },
+    {
+      "slug": "Custom Themes",
+      "name": "Custome Theme",
+      "description": "",
+      "icon": "🤖"
     }
   ]
 }
