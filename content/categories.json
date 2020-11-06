@@ -3,25 +3,25 @@
     {
       "slug": "Sell Theme",
       "name": "Sell Theme",
-      "description": "",
+      "description": "   ",
       "icon": "🔨"
     },
     {
       "slug": "Default Theme",
       "name": "Default Theme",
-      "description": "",
+      "description": "  ",
       "icon": "⌚"
     },
     {
       "slug": "Minimal Theme",
       "name": "Minimal Theme",
-      "description": "",
+      "description": "  ",
       "icon": "💬"
     },
     {
       "slug": "Custom Themes",
-      "name": "Custome Theme",
-      "description": "",
+      "name": "Custom Theme",
+      "description": "   ",
       "icon": "🤖"
     }
   ]
