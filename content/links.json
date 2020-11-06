@@ -32,7 +32,7 @@
         "Default Theme"
       ],
       "name": "Juniper Web Demo",
-      "description": "",
+      "description": "  ",
       "url": "https://juniperweb-multiline.b2bdirect.io/",
       "icon": "/images/logos/darkmode.png"
     },
@@ -41,7 +41,7 @@
         "Default Theme"
       ],
       "name": "Selamet",
-      "description": "",
+      "description": "  ",
       "url": "https://selamatdesigns.trade/",
       "icon": "/images/logos/undesign.png"
     },
@@ -50,21 +50,22 @@
         "Default Theme"
       ],
       "name": "Militti",
-      "description": "",
-      "url": "https://www.milittisales.com/"
+      "description": "  ",
+      "url": "https://www.milittisales.com/",
+      "icon": "/images/logos/kanbanote.png"
     },
     {
       "categories_slugs": [
         "Minimal Theme"
       ],
       "name": "Bethany Lowe",
-      "description": "",
+      "description": "  ",
       "url": "https://bethanylowe.com/",
       "icon": "/images/logos/revenual.svg"
     },
     {
       "categories_slugs": [
-        "open-source"
+        "Custom Themes"
       ],
       "name": "Software Donation",
       "description": "Transforming lives through access to powerful software",
@@ -201,7 +202,8 @@
       ],
       "name": "Jekyll-webpack-boilerplate",
       "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
+      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate",
+      "icon": "/images/logos/coingenerator.png"
     },
     {
       "categories_slugs": [
