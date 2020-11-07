@@ -2,26 +2,26 @@
   "categories": [
     {
       "slug": "Sel Theme",
-      "name": "Sell Theme",
-      "description": "   ",
+      "name": "Sel Theme",
+      "description": "",
       "icon": "🔨"
     },
     {
       "slug": "Default Theme",
       "name": "Default Theme",
-      "description": "  ",
+      "description": "",
       "icon": "⌚"
     },
     {
       "slug": "Minimal Theme",
       "name": "Minimal Theme",
-      "description": "  ",
+      "description": "",
       "icon": "💬"
     },
     {
       "slug": "Custom Themes",
-      "name": "Custom Theme",
-      "description": "   ",
+      "name": "Custom Themes",
+      "description": "",
       "icon": "🤖"
     }
   ]
