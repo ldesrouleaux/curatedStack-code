@@ -5,5 +5,16 @@
   "contact_link": "mailto:support@repzio.com",
   "google_analytics": "G-QWW9YH0WM9",
   "hostname": "https://curatedstacktemplate.learn.uno/",
-  "icon": "/images/logos/icon.png"
+  "icon": "/images/logos/icon.png",
+  "floatingPrompt": {
+  "width": "500px",
+  "left": "unset",
+  "bottom": "112px",
+  "name": "Juniper Web Theme Sites W/ Customizations",
+  "text": "Hi, do you like CuratedStack Nocode Template ? Don't forget to show your love on Product Hunt 🚀",
+  "url": "https://www.producthunt.com/posts/curatedstack-no-code-template",
+  "right": "32px",
+  "disabled": false,
+  "buttonText": "CuratedStack Template on Product Hunt"
+}
 }
