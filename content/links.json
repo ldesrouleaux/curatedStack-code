@@ -67,29 +67,28 @@
       "categories_slugs": [
         "Custom Themes"
       ],
-      "name": "Software Donation",
-      "description": "Transforming lives through access to powerful software",
-      "url": "https://softwaredonation.org/",
+      "name": "Crestview Collection",
+      "description": "",
+      "url": "https://www.crestviewcollection.com/",
       "icon": "/images/logos/software-donation.png"
     },
     {
       "categories_slugs": [
-        "ideas",
-        "open-source",
-        "trends"
+        "Custom Themes",
+
       ],
-      "name": "Infinideas",
-      "description": "Infinite feed of crowdsourced ideas from Reddit and Twitter",
-      "url": "https://infinideas.learn.uno/",
+      "name": "Style Craft",
+      "description": "",
+      "url": "https://stylecraftonline.com/",
       "icon": "/images/logos/infinideas.png"
     },
     {
       "categories_slugs": [
-        "open-source"
+        "Custom Themes"
       ],
-      "name": "NamingConvention",
-      "description": "Encyclopedia of naming conventions",
-      "url": "https://namingconvention.org/",
+      "name": "Colton Lane Luxury Goods",
+      "description": "",
+      "url": "https://coltonlane.com/",
       "icon": "/images/logos/naming-convention.png"
     },
     {
