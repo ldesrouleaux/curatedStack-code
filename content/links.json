@@ -93,21 +93,21 @@
     },
     {
       "categories_slugs": [
-        "communication"
+        "Agencies / Multi-Line"
       ],
-      "name": "WhatsBlast",
-      "description": "Send personalized mass WhatsApp messages",
-      "url": "https://whatsblast.learn.uno/",
+      "name": "Juniper Web",
+      "description": "",
+      "url": "https://juniperweb-multiline.b2bdirect.io/",
       "icon": "/images/logos/whatsblast.png"
     },
     {
       "categories_slugs": [
-        "well-being"
+        "Agencies / Multi-line"
       ],
-      "name": "Detoxify",
-      "description": "Generate a fake app to replace any addictive app 📱🙅",
-      "url": "https://detoxify.app/",
-      "icon": "/images/logos/detoxify.png"
+      "name": "Just Got 2 have it!",
+      "description": "",
+      "url": "https://justgot2haveit.b2bdirect.io/",
+      "icon": "images/logos/textblast.png
     },
     {
       "categories_slugs": [

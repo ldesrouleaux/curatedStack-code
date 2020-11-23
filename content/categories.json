@@ -4,25 +4,32 @@
       "slug": "Sell Theme",
       "name": "Sell Theme",
       "description": "   ",
-      "icon": "🔨"
+      "icon": "🎉"
     },
     {
       "slug": "Default Theme",
       "name": "Default Theme",
       "description": "",
-      "icon": "⌚"
+      "icon": "🌐"
     },
     {
       "slug": "Minimal Theme",
       "name": "Minimal Theme",
       "description": "",
-      "icon": "💬"
+      "icon": "🔶"
     },
     {
       "slug": "Custom Themes",
       "name": "Custom Themes",
       "description": "",
       "icon": "🤖"
+    },
+    {
+      "slug": "Agencies / Multi-Line",
+      "name": "Agencies / Multi-Line",
+      "description": "",
+      "icon": "🤹‍♀️"
     }
+
   ]
 }
